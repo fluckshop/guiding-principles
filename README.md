@@ -90,7 +90,7 @@ clarified, and new sections may be added. But the spirit will always remain the
 same.
 
 If you're interested in the history of this document, it's publicly available
-in this repository on GitHub.
+in [this repository on GitHub](https://github.com/fluckshop/guiding-principles).
 
 _**Version 0.1**_
-_Last updated 07 July 2025 at 11:56._
+_Last updated 07 July 2025 at 13:31._
