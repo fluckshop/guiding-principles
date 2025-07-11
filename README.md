@@ -8,7 +8,7 @@ Building a new platform for the community is no small feat. It requires solid gu
 
 ### Build for sustainability
 
-Create a sustainable, independent business, built to last and grow with its users.
+Develop a sustainable, independent business, built to last and grow with its users.
 
 ### Stay independent
 
@@ -76,5 +76,5 @@ This document will evolve. Some sections may be fine-tuned or clarified, and new
 
 If you're interested in the history of this document, it's publicly available in [this repository on GitHub](https://github.com/fluckshop/guiding-principles).
 
-_**Version 0.4**_
-_Last updated 11 July 2025 at 08:26._
+_**Version 0.5**_
+_Last updated 11 July 2025 at 11:12._
