@@ -56,15 +56,19 @@ Only adopt what clearly benefits real users. Favour proven technologies over wha
 
 ### Operate transparently
 
-Share how things work. Open communication, clear decisions, honest pricing. No surprise fees, no hidden commissions, no dubious changes.
+Share how things work. Open communication, clear decisions, honest pricing. No dubious changes, no surprise fees, no hidden commissions.
+
+### Users own their data
+
+Content, customer lists, and personal information belong to users. Act as a custodian, not the owner.
 
 ### Freedom of movement
 
-You can't please everyone. If it's not a match, anyone should be able to grab their bag of data and move out. No lock-ins, ever.
+You can't please everyone. If it's not a match, anyone should be able to move out. Full export capabilities, no barriers, no questions asked.
 
 ### Give back
 
-Open-source the code, support key software, and build a community for makers helping makers.
+Open-source the code and support key software projects.
 
 ## Not set in stone
 
@@ -72,5 +76,5 @@ This document will evolve. Some sections may be fine-tuned or clarified, and new
 
 If you're interested in the history of this document, it's publicly available in [this repository on GitHub](https://github.com/fluckshop/guiding-principles).
 
-_**Version 0.3**_
-_Last updated 11 July 2025 at 07:41._
+_**Version 0.4**_
+_Last updated 11 July 2025 at 08:26._
