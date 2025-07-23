@@ -6,10 +6,6 @@ Building a new platform for the community is no small feat. It requires solid gu
 
 ## The Principles
 
-### Build for sustainability
-
-Develop a sustainable, independent business, built to last and grow with its users.
-
 ### Stay independent
 
 No selling out, no external pressure. The right partner might help someday, but there's no “exit strategy”.
@@ -17,6 +13,10 @@ No selling out, no external pressure. The right partner might help someday, but 
 ### Enough is enough
 
 Stay small, maintainable, and focused. When growth threatens quality, pause and refocus. Human-scale progress is the path to sustainability.
+
+### Build for sustainability
+
+Develop a sustainable, independent business, built to last and grow with its users.
 
 ### Community at the core
 
