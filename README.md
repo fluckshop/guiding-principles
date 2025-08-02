@@ -76,5 +76,5 @@ This document will evolve. Some sections may be fine-tuned or clarified, and new
 
 If you're interested in the history of this document, it's publicly available in [this repository on GitHub](https://github.com/fluckshop/guiding-principles).
 
-_**Version 0.5**_
-_Last updated 11 July 2025 at 11:12._
+_**Version 0.6**_
+_Last updated 2 August 2025 at 20:24._
