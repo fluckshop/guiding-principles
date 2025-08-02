@@ -6,67 +6,67 @@ Building a new platform for the community is no small feat. It requires solid gu
 
 ## The Principles
 
-### Stay independent
+### 01. Stay independent
 
 No selling out, no external pressure. The right partner might help someday, but there's no “exit strategy”.
 
-### Enough is enough
+### 02. Enough is enough
 
 Stay small, maintainable, and focused. When growth threatens quality, pause and refocus. Human-scale progress is the path to sustainability.
 
-### Build for sustainability
+### 03. Build for sustainability
 
-Develop a sustainable, independent business, built to last and grow with its users.
+Choose partners who share our environmental values. Write efficient code, avoid unnecessary features, and optimize for efficiency.
 
-### Community at the core
+### 04. Community at the core
 
 Creatives thrive together. Build a supportive network for sharing, collaboration, and inspiration. A true community, not mere transactions.
 
-### Keep it human
+### 05. Keep it human
 
 Foster direct, authentic connections between makers and buyers. No algorithmic ranking, no hidden push or pull.
 
-### Celebrate individuality
+### 06. Celebrate individuality
 
 Protect every maker's voice and authorship. Genuine, tangible, human-made work is at the heart.
 
-### Accessible by design
+### 07. Accessible by design
 
 Embrace inclusivity from the start. Compliance with standards is the baseline, not the goal. Consider all abilities and devices; everybody should feel welcome.
 
-### Usability first
+### 08. Usability first
 
 Simple, powerful, and easy to learn. Keep it clear and light, so creators can focus on what they do best.
 
-### Stay lean
+### 09. Stay lean
 
 Every feature must serve creative people directly. Avoid bloat and listen to real user needs.
 
-### Be stable, be boring
+### 10. Be stable, be boring
 
 Reliability matters most. No changes for change's sake. Improve incrementally, keeping things dependably solid.
 
-### Move deliberately slow
+### 11. Move deliberately slow
 
 Long-term sustainability over short-term wins. Sleep on big decisions, and research alternatives. Choose what _not_ to do as carefully as what to do.
 
-### Resist the hype
+### 12. Resist the hype
 
 Only adopt what clearly benefits real users. Favour proven technologies over whatever's hot.
 
-### Operate transparently
+### 13. Operate transparently
 
 Share how things work. Open communication, clear decisions, honest pricing. No dubious changes, no surprise fees, no hidden commissions.
 
-### Users own their data
+### 14. Users own their data
 
 Content, customer lists, and personal information belong to users. Act as a custodian, not the owner.
 
-### Freedom of movement
+### 15. Freedom of movement
 
 You can't please everyone. If it's not a match, anyone should be able to move out. Full export capabilities, no barriers, no questions asked.
 
-### Give back
+### 16. Give back
 
 Open-source the code and support key software projects.
 
