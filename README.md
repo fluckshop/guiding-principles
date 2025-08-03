@@ -16,7 +16,7 @@ Stay small, maintainable, and focused. When growth threatens quality, pause and 
 
 ### 03. Build for sustainability
 
-Choose partners who share our environmental values. Write efficient code, avoid unnecessary features, and optimize for efficiency.
+Choose partners who share our environmental values. Write efficient code, avoid unnecessary features, and optimize for performance.
 
 ### 04. Community at the core
 
@@ -60,7 +60,7 @@ Share how things work. Open communication, clear decisions, honest pricing. No d
 
 ### 14. Users own their data
 
-Content, customer lists, and personal information belong to users. Act as a custodian, not the owner.
+Content, customer lists, and personal information belong to users. Act as the custodian, not the owner.
 
 ### 15. Freedom of movement
 
@@ -68,7 +68,7 @@ You can't please everyone. If it's not a match, anyone should be able to move ou
 
 ### 16. Give back
 
-Open-source the code and support key software projects.
+Open-source the code and make it easy to self-host. Support key software projects and dependencies.
 
 ## Not set in stone
 
